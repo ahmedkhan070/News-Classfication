@@ -80,7 +80,7 @@ Fake news classification is an important task that involves distinguishing betwe
 ## References
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Naive Bayes Algorithm](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [Codebasics Youtube Channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 - [Fake News Dataset](https://www.kaggle.com/datasets/competitions)
 
 ## Conclusion
